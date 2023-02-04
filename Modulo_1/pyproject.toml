@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "mba-engenharia-dados"
+version = "0.1.0"
+description = ""
+authors = ["angelospi <angelo.spinardi@hotmail.com>"]
+readme = "README.md"
+packages = [{include = "mba_engenharia_dados"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.5.3"
+boto3 = "^1.26.55"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
