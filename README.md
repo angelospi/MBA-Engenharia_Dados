@@ -1,6 +1,6 @@
 ﻿# MBA - Engenharia de dados
 ## Propósito
-Esse repositório contém os conteúdos abordados durante o MBA Engenharia de dados promovido pela instituição XP Educação. O repositório será dividido em Módulos, sendo cada módulo contendo a matéria estudada nesse período.
+Esse repositório contém os conteúdos abordados durante o MBA Engenharia de dados promovido pela instituição XP Educação. O repositório será dividido em módulos, sendo cada módulo contendo a matéria estudada nesse período.
 
 ## Módulo 1
 ### Tecnologias abordadas 
