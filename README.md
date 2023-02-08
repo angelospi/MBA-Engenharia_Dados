@@ -26,4 +26,7 @@ O repositório está dividido em duas pastas, scripts e terraform. A pasta scrip
 
 Obs: Todas configurações de infraestrutura do desafio foram realizadas via terraform.
 
+### Arquitetura do desafio
+![Architecture_desafio_1](https://github.com/angelospi/MBA-Engenharia_Dados/blob/master/Modulo_1/architecture_desafio.png)
+
 ## Módulo 2
