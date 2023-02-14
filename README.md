@@ -40,5 +40,5 @@ Obs: Todas configurações de infraestrutura do desafio foram realizadas via ter
 - Desafio: Dados de cadastro de estabelecimentos brasileiros. (https://homepages.dcc.ufmg.br/~pcalais/XPE/engenharia-dados/big-data-spark/desafio/dados.zip)
 
 ### Objetivos
-- **Trabalho prático:** Realizar a ingestão dos dados em um data lake e utilizando o PySpark utilizar a API de dataframe do PySpark para realizar as análises dos dados e responder as perguntas contidas no formulário. Essas perguntas também se apresentam no notebook.
+- **Trabalho prático:** Realizar a ingestão dos dados em um data lake e utilizando o PySpark dentro do Databricks utilizar a API de dataframe do PySpark para realizar as análises dos dados e responder as perguntas contidas no formulário. Essas perguntas também se apresentam no notebook.
 - **Desafio:** Realizar a ingestão dos dados em um data lake e utilizando o PySpark utilizar o Spark SQL para análise dos dados com a finalidade de responder o questionário apresentado . Essas perguntas também se apresentam no notebook.
