@@ -10,6 +10,9 @@ packages = [{include = "mba_engenharia_dados"}]
 python = "^3.8"
 pandas = "^1.5.3"
 boto3 = "^1.26.55"
+jupyter = "^1.0.0"
+notebook = "^6.5.2"
+pyspark = "^3.3.1"
 
 
 [build-system]
